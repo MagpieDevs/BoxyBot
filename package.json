@@ -1,0 +1,19 @@
+{
+  "name": "boxybot",
+  "version": "1.0.0",
+  "description": "script bot for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagpieDevs/BoxyBot.git"
+  },
+  "author": "Matt Patera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagpieDevs/BoxyBot/issues"
+  },
+  "homepage": "https://github.com/MagpieDevs/BoxyBot#readme"
+}
